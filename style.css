@@ -62,5 +62,5 @@ input:focus{
 #error-msg{
     text-align: center;
     margin-top: 1.25em;
-    color: wheat;
+    color: rgba(245, 222, 179, 0.662);
 }
