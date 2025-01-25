@@ -55,7 +55,7 @@ input{
     outline: none;
 }
 
-input:focus:{
+input:focus{
     border-color: wheat;
 }
 
